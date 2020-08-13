@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="54.179.103.87" id="10c19ca2-88d2-44f2-a898-e5ac0df21575" keyPath="D:\Docker\EC2-WP-Multisite\wpmultisite.pem" localPort="5555" port="22" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</project>
